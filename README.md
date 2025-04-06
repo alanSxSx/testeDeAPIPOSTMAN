@@ -1,4 +1,11 @@
-API para Testes com Jest, Supertest e K6
+PARA TESTES COM POSTMAN, BASTA IMPORTAR O ARQUIVO "Mock API.JSON" PARA O POSTMAN, EXECUTAR A API COM "node index.js" e executar a collection no POSTMAN.
+
+![image](https://github.com/user-attachments/assets/81e683ea-60ad-4c8a-8100-a61cad0eaae0)
+
+![image](https://github.com/user-attachments/assets/930e71ae-1235-46c8-b094-4cce79c5b4ce)
+
+
+API para Testes com Jest + Supertest, K6 e POSTMAN
 
 Este projeto é uma API simples construída com Express para fins de testes automatizados usando Jest + Supertest para testes unitários e K6 para testes de carga.
 
